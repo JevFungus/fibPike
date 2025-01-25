@@ -1,5 +1,7 @@
 #! /usr/bin/env pike
 
+//sorry for lack of comments, I may add them in the future.
+
 void fibFetch (int num)
 {
   int n = 0;
